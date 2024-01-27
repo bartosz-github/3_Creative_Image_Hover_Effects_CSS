@@ -19,3 +19,24 @@ body {
     width: 100%;
     transition: all 1s;
 }
+
+.content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    /* center the text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    transition: all 1s;
+    background: rgb(23, 23, 23);
+    transform: translateX(-100%);
+}
+
+.container:hover .content {
+    transform: translateX(0);
+    
+}
