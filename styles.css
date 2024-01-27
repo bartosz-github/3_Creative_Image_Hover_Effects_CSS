@@ -4,6 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: sans-serif;
+    background-color: cornflowerblue;
 }
 
 .container {
