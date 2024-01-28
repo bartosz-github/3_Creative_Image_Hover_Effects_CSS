@@ -32,5 +32,9 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-
+    align-items: center;
+    color: #fff;
+    transition: all 0.5s;
+    background: rgb (23, 23, 23);
+    transform: translateY(100%);
 }
