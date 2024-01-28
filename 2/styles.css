@@ -42,3 +42,7 @@ body {
 .container:hover .content {
     transform: translateY(0);
 }
+
+.container:hover img {
+    transform: translateY(-30%);
+}
