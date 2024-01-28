@@ -28,6 +28,7 @@ body {
     transition: 0.5s;
     overflow: hidden;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -44,7 +45,7 @@ p{
     margin: 10px auto;
     font-size: 18px;
     transition: 0.5s;
-    opacity: 0;
+    /* opacity: 0; */
     line-height: 25px;
     color: #fff;
 }
