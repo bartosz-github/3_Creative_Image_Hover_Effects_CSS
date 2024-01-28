@@ -1,3 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+body { 
+    background-color: lightslategray;
+}
+
+/*
 body {
     height: 100vh;
     display: flex;
@@ -25,7 +42,7 @@ body {
     left: 0;
     height: 100%;
     width: 100%;
-    /* center the text */
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -42,4 +59,4 @@ body {
 
 .container:hover img {
     transform: translateX(100%);
-}
+}*/
