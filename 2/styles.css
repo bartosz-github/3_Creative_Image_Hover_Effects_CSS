@@ -38,3 +38,7 @@ body {
     background: rgb (23, 23, 23);
     transform: translateY(100%);
 }
+
+.container:hover .content {
+    transform: translateY(0);
+}
