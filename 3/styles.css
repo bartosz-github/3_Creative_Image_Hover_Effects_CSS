@@ -58,8 +58,9 @@ a {
     display: inline-block;
     margin-top: 10px;
     transition: 0.5s;
-    opacity: 0;
+    /* opacity: 0; */
     line-height: 25px;
+    color: #fff;
 }
 
 img {
