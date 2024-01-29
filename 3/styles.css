@@ -75,3 +75,9 @@ img {
     width: 100%;
     left: 0;
 }
+
+.card:hover p,
+.card:hover a {
+    opacity: 1;
+    transition-delay: 0.5s;
+}
