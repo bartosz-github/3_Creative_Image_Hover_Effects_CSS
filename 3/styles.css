@@ -21,7 +21,7 @@ body {
     position: absolute;
     bottom: 0px;
     width: 80%;
-    height: 200px;
+    height: 100%;
     background: crimson;
     left: 10%;
     text-align: center;
@@ -50,6 +50,17 @@ p{
     color: #fff;
 }
 
+a {
+    text-decoration: none;
+    background-color: black;
+    color: #fff;
+    padding: 10px 15px;
+    display: inline-block;
+    margin-top: 10px;
+    transition: 0.5s;
+    opacity: 0;
+    line-height: 25px;
+}
 
 img {
     width: 100%;
